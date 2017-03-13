@@ -1,0 +1,1001 @@
+id,year,temp,city,country,ip_address
+1,2009,40,Ahar,Iran,123.161.199.12
+2,1991,37,Watulabara,Indonesia,70.185.118.246
+3,2015,32,Donostia-San Sebastian,Spain,170.171.193.206
+4,2017,40,Banjar Timbrah,Indonesia,94.175.43.247
+5,1996,24,Puteaux,France,94.104.189.154
+6,2006,34,Shōbu,Japan,5.32.206.159
+7,2009,34,Japeri,Brazil,204.244.147.2
+8,1990,44,Zadní Mostek,Czech Republic,160.234.171.29
+9,2015,35,Stare Kurowo,Poland,184.3.97.12
+10,2000,30,Romanovskaya,Russia,86.233.12.103
+11,2003,40,Tomiya,Japan,192.202.135.92
+12,2003,29,Chajarí,Argentina,248.110.79.56
+13,2011,50,Masaling,Philippines,171.237.83.6
+14,2012,48,Macha,China,36.196.126.240
+15,1997,31,Brumadinho,Brazil,69.13.113.6
+16,2005,49,Cové,Benin,185.15.82.217
+17,2000,45,Helsingborg,Sweden,114.255.22.78
+18,2012,32,Xiashihao,China,11.204.229.11
+19,2002,29,Morcolla,Peru,123.97.233.70
+20,1992,27,São Bernardo do Campo,Brazil,179.83.167.162
+21,1994,50,Masvingo,Zimbabwe,20.199.120.87
+22,2013,47,Orzech,Poland,5.181.179.51
+23,2013,36,Dubova (Driloni),Kosovo,178.39.34.168
+24,1996,26,Romny,Russia,125.232.73.88
+25,2007,46,Malin,China,117.84.162.206
+26,1993,26,Bambas,Peru,52.203.204.57
+27,1998,34,Landskrona,Sweden,93.199.98.47
+28,1994,39,Zipaquirá,Colombia,43.186.76.65
+29,1990,34,Huayuan,China,153.136.190.182
+30,2010,42,Palekastro,Greece,219.133.182.99
+31,2001,37,Pancoran,Indonesia,203.10.8.96
+32,1995,41,Rennes,France,36.26.216.60
+33,1991,49,Một Ngàn,Vietnam,6.247.75.80
+34,1990,40,Philadelphia,United States,1.209.153.125
+35,2017,44,Dongting,China,68.33.105.37
+36,2004,45,Cachoeira do Sul,Brazil,204.37.226.180
+37,2007,41,Villa Ocampo,Argentina,75.54.35.113
+38,2003,40,Lípa,Czech Republic,202.70.208.1
+39,1998,25,Tolkmicko,Poland,241.197.81.42
+40,1998,38,Jargalant,Mongolia,105.77.98.167
+41,2007,46,Herceg-Novi,Montenegro,4.172.33.8
+42,2003,36,Imus,Philippines,158.193.238.84
+43,2011,30,Masvingo,Zimbabwe,130.174.193.207
+44,2002,30,Rozhniv,Ukraine,211.234.182.141
+45,2011,42,Peristerá,Greece,112.239.201.95
+46,2012,38,Seattle,United States,124.193.93.38
+47,1996,50,Sobral,Brazil,255.240.93.147
+48,2004,41,Jiading,China,241.122.155.234
+49,2008,28,Jiasi,China,207.8.224.177
+50,2003,35,Ipiales,Colombia,0.113.136.213
+51,2008,31,Tanza,Philippines,85.51.141.180
+52,2002,29,Lyubinskiy,Russia,166.208.12.125
+53,2013,31,Muleng,China,4.233.180.27
+54,1997,29,Voloshka,Russia,184.241.230.142
+55,1992,25,Rääkkylä,Finland,232.37.138.7
+56,2016,39,Chandra,Comoros,56.52.154.123
+57,2015,33,Babakantugu,Indonesia,229.155.87.47
+58,2010,35,Lovrenc na Pohorju,Slovenia,63.41.196.241
+59,1990,36,Yayao,China,165.204.30.202
+60,1999,24,Próchoma,Greece,139.92.209.99
+61,2007,25,Kharkiv,Ukraine,76.8.119.139
+62,2012,39,Rychvald,Czech Republic,122.31.81.232
+63,2006,36,Angus,Canada,72.38.91.138
+64,1996,50,Goodlands,Mauritius,119.207.253.252
+65,1998,30,Chenzhouzhai,China,124.203.113.125
+66,2005,37,Pemex,Mexico,173.152.81.122
+67,1991,43,Lons-le-Saunier,France,230.216.84.26
+68,1992,31,Ribeira Quente,Portugal,147.26.33.137
+69,2015,39,Lainqu,China,187.204.247.49
+70,2002,45,Fontenay-sous-Bois,France,221.45.167.54
+71,2007,31,Zaghouan,Tunisia,57.221.102.26
+72,2001,46,Zhendong,China,137.192.136.62
+73,2012,42,Loen,Marshall Islands,153.127.157.143
+74,2000,25,Pelem,Indonesia,81.198.6.49
+75,1990,35,Norrköping,Sweden,147.25.190.87
+76,2008,50,Yanjiang,China,130.111.48.248
+77,2011,37,Štitar,Croatia,221.5.92.79
+78,2009,31,Ampera,Indonesia,7.177.88.221
+79,2001,35,Brades,Montserrat,150.150.157.145
+80,2014,46,Obertyn,Ukraine,161.199.200.41
+81,1997,35,Madara,Nigeria,104.205.147.184
+82,2009,44,Keroak,Indonesia,193.61.80.247
+83,2011,40,Sumberwaru,Indonesia,77.170.252.173
+84,2011,29,Ħamrun,Malta,97.171.226.150
+85,1997,43,Reszel,Poland,251.5.206.193
+86,2011,50,Gwoźnica Górna,Poland,138.115.25.217
+87,1992,45,Jambeyan,Indonesia,152.98.132.61
+88,2010,34,Fengjiang,China,161.119.177.169
+89,2000,39,Gýtheio,Greece,252.45.253.178
+90,1994,46,Bailu,China,176.125.220.149
+91,2014,50,Huruta,Ethiopia,34.68.63.60
+92,2015,35,Banamba,Mali,15.51.93.171
+93,2013,28,Stavropol’,Russia,14.177.114.142
+94,2011,50,Argayash,Russia,251.12.147.226
+95,1996,42,Baş Göynük,Azerbaijan,201.221.166.9
+96,1992,48,Limoges,France,237.185.5.24
+97,2013,46,Komoro,Japan,83.99.101.232
+98,2002,33,Lazurne,Ukraine,50.147.46.24
+99,1998,50,Dongjia,China,97.61.74.181
+100,2006,25,Dongxi,China,77.156.27.226
+101,1995,45,San Bartolomé Milpas Altas,Guatemala,42.180.17.89
+102,2009,50,Tsant,Mongolia,250.43.74.194
+103,2017,47,Belo sur Tsiribihina,Madagascar,22.167.113.9
+104,1992,46,Ferreñafe,Peru,34.52.179.139
+105,1990,26,Pelem,Indonesia,192.131.119.9
+106,2002,43,Chenôve,France,231.145.183.89
+107,2002,25,Červená Voda,Czech Republic,158.90.111.86
+108,1993,32,Lugu,China,113.88.120.135
+109,1998,29,Rixi,China,175.245.133.83
+110,1992,44,Uppsala,Sweden,208.121.221.243
+111,2014,29,Akune,Japan,248.213.175.211
+112,2009,44,Daleman,Indonesia,78.250.69.218
+113,2009,30,Nikolayevsk,Russia,111.128.2.20
+114,2008,26,Łąck,Poland,25.33.252.62
+115,2014,50,Laiyuan,China,152.5.15.153
+116,2002,31,Apostolove,Ukraine,167.111.51.47
+117,2014,24,Hội An,Vietnam,173.229.47.43
+118,1996,47,Ħamrun,Malta,70.2.55.201
+119,2016,41,Jifeng,China,99.221.172.39
+120,1999,37,Ketawang,Indonesia,227.206.252.20
+121,2010,46,Rixi,China,239.8.163.129
+122,2002,38,Caridad,Philippines,82.226.228.132
+123,1995,45,Boden,Sweden,229.249.250.188
+124,2000,24,Capitán Solari,Argentina,143.67.132.251
+125,1990,47,Saitama,Japan,199.236.131.171
+126,1991,48,Ngrowo,Indonesia,88.253.110.163
+127,2000,34,Lodhrān,Pakistan,171.174.195.173
+128,1991,30,El Paso,United States,109.117.188.126
+129,2000,28,Sukorejo,Indonesia,248.242.166.247
+130,1999,36,Novospasskoye,Russia,253.228.78.95
+131,1994,43,Paris 08,France,173.16.237.209
+132,2003,33,Murmansk,Russia,130.19.251.90
+133,2001,42,Nanfeng,China,240.217.110.7
+134,2016,32,Hualmay,Peru,142.130.10.186
+135,2007,31,Corinto,Colombia,172.204.16.194
+136,2014,30,Sanyang,China,197.11.38.142
+137,2005,41,Francisco Beltrão,Brazil,4.62.244.91
+138,2015,25,Jinping,China,136.81.56.210
+139,1991,38,Březová nad Svitavou,Czech Republic,20.22.159.114
+140,2002,49,Ledok,Indonesia,190.210.74.58
+141,1990,36,As Suqaylibīyah,Syria,109.105.45.31
+142,2011,40,Conchopata,Peru,8.218.69.178
+143,2007,33,Wangcun,China,134.129.143.52
+144,1991,48,Dobruševo,Macedonia,75.251.11.154
+145,2005,27,Mahébourg,Mauritius,69.211.164.175
+146,1990,30,Umbulan,Indonesia,91.220.81.102
+147,2006,45,Kraaifontein,South Africa,93.210.123.40
+148,1991,49,Xianning,China,206.227.110.61
+149,2009,45,Paris 08,France,58.96.78.102
+150,2001,32,Xiangshui,China,205.72.223.156
+151,2017,39,Frutillar,Chile,184.187.224.171
+152,2002,34,Krzeszów,Poland,147.177.47.92
+153,2003,31,Ladner,Canada,234.3.207.81
+154,1996,32,Lyubech,Ukraine,45.54.254.198
+155,1997,30,Caen,France,172.146.6.7
+156,1996,36,Cartagena,Colombia,187.126.244.146
+157,1996,27,Pa Tio,Thailand,142.43.248.89
+158,2016,47,Alto de São Sebastião,Portugal,197.123.233.224
+159,2012,34,Al Munīrah,Yemen,50.200.3.203
+160,2011,38,Regidor,Colombia,198.147.46.217
+161,2014,34,Cincinnati,United States,91.100.91.1
+162,2008,29,Kramators’k,Ukraine,96.31.231.228
+163,2011,31,Moba,China,41.109.145.50
+164,2006,36,"Laikit, Laikit II (Dimembe)",Indonesia,164.192.252.80
+165,1991,34,Znamenka,Russia,87.25.17.16
+166,1998,46,Baihua,China,136.8.73.219
+167,2003,48,Las Minas,Panama,146.126.180.85
+168,2014,46,La Charité-sur-Loire,France,15.237.126.199
+169,2016,50,Madolenihm Municipality Government,Micronesia,194.10.161.173
+170,2009,34,Jing’an,China,116.235.243.90
+171,1993,35,Vinha,Portugal,36.113.112.50
+172,2010,44,Alfta,Sweden,178.108.78.81
+173,2009,27,Hīt,Iraq,243.246.54.76
+174,2005,50,Jingchuan,China,85.101.44.174
+175,2005,40,Pimentel,Dominican Republic,76.243.143.133
+176,2012,38,Beidajie,China,238.241.151.185
+177,2010,46,Ngrayun,Indonesia,169.59.89.2
+178,2015,46,Timaru,New Zealand,254.103.185.191
+179,1995,36,Yanagawa,Japan,255.79.55.168
+180,1999,40,Buckland,United Kingdom,195.223.148.2
+181,2008,39,El Porvenir,Mexico,198.211.28.164
+182,2014,38,Sangali,Philippines,72.196.159.197
+183,2013,48,Basar,China,45.10.217.19
+184,2004,35,Lukou,China,170.134.150.152
+185,2010,26,Daping,China,100.53.94.179
+186,2005,38,Luleå,Sweden,137.7.24.201
+187,1993,46,Mahalapye,Botswana,2.22.161.210
+188,1999,26,Selasari,Indonesia,39.2.118.16
+189,2014,27,Itoman,Japan,141.133.218.149
+190,1995,31,Nueva Helvecia,Uruguay,183.79.188.229
+191,2009,33,Dīla,Ethiopia,73.194.88.186
+192,2014,43,Claye-Souilly,France,72.158.18.121
+193,1994,30,Kathmandu,Nepal,234.174.33.68
+194,2012,48,Negararatu,Indonesia,162.222.64.79
+195,1990,36,Puno,Peru,226.76.215.169
+196,1998,25,Strasbourg,France,139.203.40.177
+197,2001,47,Murcia,Philippines,106.1.198.126
+198,2004,37,Богданци,Macedonia,100.33.89.33
+199,2003,38,Verkhneye Kazanishche,Russia,177.163.189.60
+200,2005,25,Lyalichi,Russia,0.203.122.65
+201,1990,40,Honglu,China,188.16.51.34
+202,2008,25,Senta,Serbia,104.61.28.173
+203,2016,32,Francisco Villa,Mexico,100.128.228.222
+204,1992,46,Buffalo,United States,166.21.168.242
+205,2012,36,Taifu,China,32.160.137.208
+206,1990,42,Shaogongzhuang,China,6.4.238.77
+207,2015,49,Maribong,Philippines,11.140.82.107
+208,2017,41,Birmingham,United States,184.189.156.117
+209,2016,30,Cheongpyeong,South Korea,82.244.124.190
+210,1995,41,Lārkāna,Pakistan,25.22.18.188
+211,1996,33,Talon,Indonesia,120.90.137.182
+212,2014,45,Solnechnogorsk,Russia,212.219.46.222
+213,1993,35,Maţāy,Egypt,35.137.180.117
+214,1998,24,Maca,Peru,34.108.211.221
+215,1995,37,Buzovna,Azerbaijan,32.99.137.57
+216,1993,24,Mibu,Japan,19.135.6.218
+217,2000,45,Horta,Portugal,241.240.217.105
+218,2001,37,Cullhuas,Peru,173.164.183.43
+219,1996,28,Triwil,Indonesia,22.206.71.253
+220,2012,29,Camilo Aldao,Argentina,48.229.204.73
+221,2010,45,Mosina,Poland,50.52.103.37
+222,2006,33,Sandakan,Malaysia,16.123.190.194
+223,2002,24,Liwan,Philippines,216.232.56.220
+224,2007,49,Longsheng,China,200.202.148.14
+225,2005,24,Conceição da Barra,Brazil,244.42.138.51
+226,2004,25,Urho,China,195.146.201.140
+227,1990,37,Longtanping,China,79.175.169.113
+228,2015,45,Santa Elena,Argentina,167.218.175.52
+229,2003,46,Pančevo,Serbia,163.192.20.230
+230,2001,24,Breda,Netherlands,144.90.126.202
+231,2001,36,Wulingyuan,China,90.184.45.115
+232,1997,26,Ambo Village,Kiribati,188.229.41.123
+233,1992,45,Cotton Ground,Saint Kitts and Nevis,83.102.27.79
+234,2001,33,Créteil,France,48.242.17.190
+235,1997,39,Wincrange,Luxembourg,83.133.211.42
+236,1992,43,Solok,Indonesia,177.46.249.131
+237,2014,32,Neyrīz,Iran,193.98.151.17
+238,1990,27,Rääkkylä,Finland,10.207.74.23
+239,2014,29,Luojiang,China,178.140.90.134
+240,1998,25,San Agustín,El Salvador,83.37.141.15
+241,2012,38,Oji River,Nigeria,185.10.63.243
+242,1991,26,Imotski,Croatia,194.168.221.237
+243,2015,43,Novo Selo,Bulgaria,107.151.250.254
+244,1995,42,Vestmannaeyjar,Iceland,75.150.171.40
+245,1994,30,Káto Nevrokópi,Greece,28.151.220.185
+246,2003,40,Wanga,Indonesia,76.143.148.130
+247,2006,48,Sławatycze,Poland,112.168.232.90
+248,2003,32,Villa del Carmen,Uruguay,187.209.206.127
+249,2017,39,Neftegorsk,Russia,61.96.210.48
+250,2004,39,El Jícaro,Guatemala,108.75.186.171
+251,1997,43,Reconquista,Argentina,246.205.42.247
+252,2002,50,Laweueng,Indonesia,66.28.32.182
+253,2004,31,Orodo,Nigeria,119.246.89.71
+254,2009,46,Sakhipur,Bangladesh,28.120.5.9
+255,2004,45,Batanghari,Indonesia,49.52.132.187
+256,2000,46,East London,South Africa,77.158.239.164
+257,1997,29,Novosel’ye,Belarus,248.227.45.205
+258,2010,42,Putina,Peru,245.28.16.165
+259,1995,35,Murowana Goślina,Poland,42.128.177.3
+260,1992,46,Būlaevo,Kazakhstan,244.29.0.67
+261,1992,25,Reinaldes,Portugal,90.68.97.184
+262,2010,50,Saint-Louis du Sud,Haiti,30.4.89.159
+263,1991,48,Camilo Aldao,Argentina,242.17.34.121
+264,2002,27,Pruzhany,Belarus,157.48.122.239
+265,2007,26,Austin,United States,140.140.24.228
+266,2007,30,Ayacucho,Peru,227.234.18.162
+267,1999,43,Kuiyong,China,194.194.220.159
+268,2008,35,Baoping,China,10.55.105.201
+269,2012,47,Pangatikan,Indonesia,74.3.165.173
+270,2008,40,San Diego,United States,107.48.205.72
+271,2008,47,Štore,Slovenia,22.136.41.206
+272,2008,28,Najrān,Saudi Arabia,34.232.43.200
+273,2004,44,Ouijjane,Morocco,58.28.173.98
+274,1991,33,Fuxing,China,219.159.70.21
+275,2006,43,Gornje Živinice,Bosnia and Herzegovina,167.62.42.146
+276,1991,44,Chenxiang,China,201.18.240.96
+277,1996,46,Kirkop,Malta,8.201.230.250
+278,1990,40,Roza,Russia,161.97.150.214
+279,1991,24,Uthal,Pakistan,30.250.32.251
+280,1992,48,Bilicenii Vechi,Moldova,193.138.59.247
+281,2001,49,Yemva,Russia,25.125.22.197
+282,2000,31,Rennes,France,111.157.45.40
+283,1997,27,Mufumbwe,Zambia,191.243.74.48
+284,2006,46,Monching,Philippines,245.192.99.207
+285,1999,32,Thị Trấn Văn Quan,Vietnam,215.43.92.212
+286,1999,38,Keleleng,Indonesia,47.242.102.8
+287,2008,34,Beauceville,Canada,175.11.186.41
+288,1990,31,Wenjī,Ethiopia,183.58.182.213
+289,1998,37,Ust’-Izhora,Russia,44.51.212.186
+290,1999,26,Várzea,Portugal,62.213.46.234
+291,2004,26,Tirat Karmel,Israel,20.210.242.241
+292,2004,35,Binafun,Indonesia,125.9.190.85
+293,2017,45,Khulna,Bangladesh,157.109.3.25
+294,2016,25,Huangjiazhai,China,1.45.66.171
+295,2013,47,Quanyang,China,108.4.197.181
+296,2012,24,Terpinnya,Ukraine,148.154.187.49
+297,2009,49,Tamahú,Guatemala,206.252.29.159
+298,1997,45,Radekhiv,Ukraine,233.201.207.132
+299,2007,49,Kurumoch,Russia,159.203.78.232
+300,2000,36,Jetak Kulon,Indonesia,94.57.87.6
+301,2000,48,Jasper Park Lodge,Canada,210.206.74.248
+302,2017,35,Larreynaga,Nicaragua,72.242.122.179
+303,2010,36,Iracemápolis,Brazil,53.96.225.39
+304,2007,50,Liaoyang,China,222.149.2.167
+305,1992,28,Kostyantynivka,Ukraine,178.183.246.30
+306,2011,36,Sefrou,Morocco,161.189.146.171
+307,1995,49,Hepu,China,16.138.25.207
+308,2007,31,Évosmos,Greece,17.199.148.206
+309,2005,47,Serere,Uganda,121.81.242.29
+310,2009,40,Balīlā,Jordan,19.58.53.73
+311,2011,42,Caicedonia,Colombia,113.42.144.201
+312,2005,32,Haurpanggung,Indonesia,113.153.33.26
+313,2005,48,Kawm Umbū,Egypt,67.180.151.124
+314,1995,46,Huangmao,China,16.166.114.68
+315,2010,45,Gračec,Croatia,180.214.17.89
+316,1995,38,Badung,Indonesia,132.212.131.70
+317,1992,27,Curridabat,Costa Rica,236.218.1.50
+318,2001,33,Jaguaruana,Brazil,110.211.175.24
+319,1998,25,Mérignac,France,199.236.231.217
+320,2000,50,Salinas,United States,64.53.15.219
+321,2006,37,Heřmanova Huť,Czech Republic,205.239.70.246
+322,2013,44,Yeniköy,Turkey,130.142.232.78
+323,1994,40,Moutsamoudou,Comoros,150.153.254.130
+324,1999,30,Buur Gaabo,Somalia,145.60.127.2
+325,2005,28,Songshan,China,56.188.35.255
+326,2017,47,Jampang Kulon,Indonesia,17.183.208.108
+327,2015,40,Boujniba,Morocco,2.9.86.161
+328,1997,34,Radeče,Slovenia,1.119.185.203
+329,1998,41,Abuyog,Philippines,60.95.118.139
+330,1998,34,Minneapolis,United States,48.219.90.47
+331,2012,32,Vryburg,South Africa,179.152.35.197
+332,2000,48,Pora,Indonesia,79.254.62.106
+333,1990,30,Yuanda,China,41.225.162.223
+334,2011,48,Fengxian,China,101.84.91.84
+335,1998,42,Smolenskoye,Russia,83.16.249.231
+336,1990,27,Tange Zhen,China,216.82.107.221
+337,2009,45,Nyaungdon,Myanmar,168.5.27.99
+338,2001,30,Stan-Bekhtemir,Russia,20.154.254.5
+339,2007,46,Cabalaoangan,Philippines,56.81.211.205
+340,2013,24,Shiqian,China,10.7.52.191
+341,2000,28,Princeville,Canada,189.201.198.104
+342,2014,37,Annau,Turkmenistan,138.57.120.32
+343,1997,41,Ronfe,Portugal,205.32.11.37
+344,2009,33,Saravia,Philippines,98.238.7.155
+345,2013,26,Cirumput,Indonesia,104.159.34.194
+346,2016,37,Samara,Russia,44.75.26.156
+347,2003,40,Řečany nad Labem,Czech Republic,52.48.88.226
+348,2017,36,Sudikampir,Indonesia,15.6.41.106
+349,2011,46,Tanjungrejo Lor,Indonesia,100.63.100.44
+350,1999,48,Falun,Sweden,41.117.87.49
+351,2000,34,Kaduengang,Indonesia,154.201.211.43
+352,2014,37,Salimbalan,Philippines,106.160.18.141
+353,2002,39,Colcabamba,Peru,225.113.131.88
+354,1992,34,Klokot,Kosovo,113.81.45.235
+355,1990,46,Kondrovo,Russia,20.10.206.74
+356,2005,43,Qingfeng,China,224.214.160.230
+357,2012,26,Lalupon,Nigeria,38.7.208.208
+358,2000,43,Ervedosa do Douro,Portugal,202.46.233.90
+359,2016,46,Igrejinha,Brazil,83.45.64.46
+360,2014,25,Harnoli,Pakistan,220.251.242.221
+361,2001,40,Wumahe,China,202.140.20.101
+362,2005,46,Presidente Epitácio,Brazil,68.31.149.54
+363,1993,28,San Jerónimo,Guatemala,205.82.241.92
+364,1995,45,Jaguariúna,Brazil,56.171.18.123
+365,2016,24,Sofifi,Indonesia,68.7.174.186
+366,2012,32,Orekhovo-Borisovo Severnoye,Russia,104.11.83.184
+367,2014,46,Cezi,China,111.61.136.41
+368,2009,26,Celorico de Basto,Portugal,98.93.179.219
+369,2000,39,São Leopoldo,Brazil,181.29.140.38
+370,1998,47,Châteaudun,France,214.82.89.210
+371,2006,34,Taen Tengah,Indonesia,234.20.129.101
+372,1991,31,Pershotravneve,Ukraine,127.213.253.50
+373,2006,24,Áyios Yeóryios,Greece,102.45.90.156
+374,2000,35,Jinan,China,132.114.193.181
+375,1991,31,Chư Sê,Vietnam,254.36.222.1
+376,1992,37,San Manuel Chaparrón,Guatemala,37.80.98.13
+377,2010,33,Fílla,Greece,48.135.99.226
+378,1998,31,Katrineholm,Sweden,46.150.10.49
+379,1996,45,Muktāgācha,Bangladesh,31.7.148.144
+380,1998,31,Boissevain,Canada,109.23.220.146
+381,2011,42,Chignayhua,Peru,14.211.26.61
+382,2000,45,Uttaradit,Thailand,126.121.142.197
+383,1997,43,Mangulewa,Indonesia,20.134.13.138
+384,1992,42,Egbe,Nigeria,28.157.87.91
+385,1996,38,Belén,Uruguay,21.179.160.67
+386,1998,44,Qingping,China,14.122.6.120
+387,2015,49,Akaki,Cyprus,155.181.73.171
+388,2012,41,Old City,Palestinian Territory,216.30.91.54
+389,1990,41,Cañuelas,Argentina,213.209.231.118
+390,2003,25,Vila Velha de Ródão,Portugal,248.69.154.152
+391,2005,28,Cruzeiro,Portugal,11.196.151.133
+392,2015,49,Krumvíř,Czech Republic,235.42.0.181
+393,1993,38,San Vicente,Philippines,242.7.211.13
+394,1996,46,Kowŏn-ŭp,North Korea,145.146.208.235
+395,2010,32,Bunut,Indonesia,255.218.93.197
+396,2010,26,Jabon,Indonesia,143.217.216.185
+397,2008,32,San Juan,Philippines,63.134.72.51
+398,2011,34,Měřín,Czech Republic,143.118.14.199
+399,2013,36,Gamleby,Sweden,238.109.77.170
+400,1996,33,Naval,Philippines,127.115.122.153
+401,1990,50,Fredrikstad,Norway,124.92.195.246
+402,1995,32,Ust’-Katav,Russia,209.238.216.31
+403,1994,48,Dhangarhi,Nepal,255.93.216.104
+404,1994,50,Thompson,Canada,192.185.236.124
+405,1994,47,Phra Pradaeng,Thailand,20.26.76.249
+406,2012,30,Granja,Brazil,165.4.241.57
+407,1996,42,Gaïtánion,Greece,142.137.182.192
+408,1990,37,Altanbulag,Mongolia,95.133.117.134
+409,1994,46,Bayang,Philippines,199.41.37.161
+410,1997,26,Tríkeri,Greece,237.228.34.59
+411,2001,24,Xingzi,China,210.132.150.242
+412,2008,36,Józefów,Poland,137.143.174.76
+413,2011,28,Petersfield,Jamaica,170.206.107.146
+414,1992,26,Babantar,Indonesia,15.108.236.78
+415,2004,27,Kalunan,Indonesia,56.148.92.151
+416,2000,42,Staryy Cherek,Russia,135.35.127.71
+417,2010,47,Mushie,Democratic Republic of the Congo,246.243.101.157
+418,2007,47,Lhokkruet,Indonesia,163.236.238.216
+419,1991,40,Dukuhpicung,Indonesia,98.57.102.21
+420,2017,33,Sunnyvale,United States,75.2.54.237
+421,2013,40,Tengqiao,China,118.173.135.3
+422,2015,47,Kota Ternate,Indonesia,130.133.68.164
+423,1991,45,Miguelópolis,Brazil,200.176.160.130
+424,1993,31,Dusit,Thailand,17.215.146.38
+425,1992,35,Dengteke,China,62.134.151.98
+426,2006,33,Soko,Indonesia,12.28.165.68
+427,2003,28,Quintas,Portugal,213.10.118.11
+428,1999,37,Khŭjand,Tajikistan,235.108.243.69
+429,2010,36,Samobor,Croatia,112.13.72.58
+430,2010,26,Bamencheng,China,47.103.158.217
+431,1993,42,Hekou,China,101.69.207.123
+432,2014,41,Petrópolis,Brazil,74.134.123.188
+433,1990,30,Sarangmeduro,Indonesia,194.224.43.175
+434,1997,31,Södertälje,Sweden,255.97.73.46
+435,1994,24,Cilated,Indonesia,105.222.252.36
+436,2007,48,Laslovo,Croatia,85.124.173.244
+437,1991,37,Châlons-en-Champagne,France,211.81.239.170
+438,2009,44,Bayt Ūlā,Palestinian Territory,15.212.63.38
+439,1990,24,Outjo,Namibia,152.223.105.32
+440,1997,29,Ḩalāwah,Jordan,231.103.120.16
+441,1993,40,San Miguel,Philippines,65.104.40.161
+442,2014,43,Sambongmulyo,Indonesia,11.114.99.55
+443,1990,49,Filothéi,Greece,93.123.203.30
+444,1997,48,Kushnytsya,Ukraine,246.4.4.87
+445,2000,46,Kokaj,Albania,206.40.99.98
+446,2000,45,Hyrynsalmi,Finland,209.14.41.51
+447,1993,38,Chegang,China,141.170.0.7
+448,1995,45,Severo-Zadonsk,Russia,130.232.131.74
+449,2016,29,Leninogorsk,Russia,59.3.179.195
+450,1990,41,Ketanggungan,Indonesia,164.87.163.232
+451,2005,33,Klana,Croatia,6.26.159.85
+452,2008,25,Poncokusumo,Indonesia,121.242.198.42
+453,2014,47,Caldas das Taipas,Portugal,70.0.94.60
+454,2007,34,Na Kae,Thailand,171.152.216.64
+455,2001,34,San José de Miranda,Colombia,186.105.83.244
+456,1993,47,Książki,Poland,224.232.211.44
+457,1995,31,Lees Summit,United States,172.92.15.227
+458,1990,48,Zdenci,Croatia,237.32.95.84
+459,1998,49,Strellc i Epërm,Kosovo,33.71.52.138
+460,2008,41,Goundi,Chad,30.63.115.180
+461,1990,30,Murmuiža,Latvia,141.30.192.68
+462,2009,35,Studzionka,Poland,34.120.0.20
+463,1996,38,Sa‘sa‘,Syria,31.191.118.131
+464,2001,36,Babakan Baru,Indonesia,122.220.236.22
+465,2001,34,Tlogosadang,Indonesia,113.144.85.178
+466,2002,39,Gucheng,China,160.53.224.249
+467,1994,39,Tuwa,Indonesia,198.7.245.182
+468,1999,46,Ban Talat Bueng,Thailand,233.228.92.206
+469,2002,48,Mosta,Malta,25.199.8.210
+470,1996,41,Kosmach,Ukraine,109.39.176.92
+471,2001,35,Lewolen,Indonesia,104.136.56.78
+472,1994,40,Ampatuan,Philippines,107.154.105.217
+473,1999,48,Zeerust,South Africa,2.110.196.236
+474,2004,27,Moses,Portugal,18.172.223.45
+475,2010,36,Jiulong,China,87.32.189.5
+476,1995,27,Toulouse,France,222.195.37.11
+477,2003,49,Banpu,China,145.160.134.79
+478,1998,38,Fushan,China,121.231.210.193
+479,2006,30,Jingtou,China,53.52.234.174
+480,1991,50,Jinzhuang,China,180.140.173.149
+481,1995,28,Paris La Défense,France,230.171.110.239
+482,2011,24,Duanjia,China,99.185.99.184
+483,2010,31,Novyy Urengoy,Russia,26.160.155.37
+484,2010,34,Rantepang,Indonesia,1.66.242.120
+485,1994,35,Nusaherang,Indonesia,201.81.251.241
+486,2013,46,Zhangxiang,China,179.36.85.45
+487,1992,33,Nancheng,China,20.146.124.162
+488,2000,37,Cimrutu,Indonesia,27.145.194.244
+489,2002,45,Kilju,North Korea,191.192.117.241
+490,2015,27,Las Animas,Chile,18.232.0.138
+491,2013,34,Laiya,Philippines,161.190.91.188
+492,2007,29,Murcki,Poland,135.151.231.66
+493,1992,36,Guadalupe,Costa Rica,129.243.191.244
+494,2010,41,Hongjiaguan,China,196.119.54.156
+495,2009,50,Asempapak,Indonesia,227.76.255.120
+496,2014,32,Camarate,Portugal,205.100.248.224
+497,2012,30,Klippan,Sweden,80.152.251.199
+498,1990,33,Toyonaka,Japan,89.32.203.160
+499,2000,44,Mahdalynivka,Ukraine,107.24.209.167
+500,2015,30,Gaopi,China,40.224.179.72
+501,1999,28,Pakham,Thailand,214.36.79.223
+502,2009,30,Agadez,Niger,165.140.140.79
+503,2015,24,Regimin,Poland,200.232.130.90
+504,2011,45,Muarabadak,Indonesia,169.147.182.45
+505,2010,28,Liuji,China,208.159.122.116
+506,1992,37,Dowr-e Rabāţ,Afghanistan,176.196.185.178
+507,2009,50,Montilla,Philippines,228.45.188.240
+508,1992,47,Capitán Solari,Argentina,190.66.112.211
+509,2016,50,Junzhuang,China,87.107.96.83
+510,1992,28,Anulid,Philippines,32.134.78.210
+511,1995,27,Gongli,China,90.206.85.203
+512,2013,48,Baturinggit Kaja,Indonesia,206.173.155.198
+513,2013,41,Bergen,Norway,104.224.245.128
+514,2001,38,Niedźwiedź,Poland,41.124.82.199
+515,2014,31,Gunung Timur,Indonesia,142.197.52.180
+516,2002,30,Anambongan,Philippines,182.225.215.164
+517,1996,29,Novo Aripuanã,Brazil,208.170.49.193
+518,1994,35,Novobeysugskaya,Russia,212.113.33.186
+519,2008,24,Banjar Sambangan,Indonesia,172.249.6.138
+520,2006,48,Bagalangit,Philippines,43.50.214.245
+521,1998,33,Celso Ramos,Brazil,72.106.92.243
+522,1993,29,Lengor,Indonesia,174.113.20.36
+523,2013,42,Ledenice,Czech Republic,104.84.151.237
+524,2009,41,Santa Ana,Philippines,115.205.61.90
+525,2007,43,Luhansk,Ukraine,100.134.255.149
+526,2014,29,Lom Kao,Thailand,49.10.250.135
+527,2000,47,Qiting,China,3.116.50.50
+528,2015,30,Jamshoro,Pakistan,3.106.68.43
+529,1999,43,Anqing,China,186.177.105.247
+530,2007,27,Zhangdan,China,3.149.160.84
+531,1990,28,Perístasi,Greece,218.11.45.168
+532,2014,27,Iturama,Brazil,87.38.50.69
+533,1990,40,Turbiv,Ukraine,41.33.251.11
+534,1995,49,Shemursha,Russia,223.142.81.67
+535,2016,48,São Mateus do Maranhão,Brazil,0.226.98.26
+536,1992,26,Blarney,Ireland,164.185.201.233
+537,2006,42,Lunao,Philippines,102.210.46.253
+538,2001,42,Матејче,Macedonia,192.213.55.112
+539,1996,45,Skópelos,Greece,90.114.29.250
+540,2003,29,Izlake,Slovenia,136.14.206.102
+541,1994,32,Hengpi,China,177.122.154.78
+542,1998,24,Mossendjo,Republic of the Congo,157.168.174.149
+543,2010,47,Czchów,Poland,40.157.162.13
+544,1994,24,Leluo,China,127.185.107.45
+545,2011,45,Rathnew,Ireland,67.226.182.107
+546,1999,34,Campo Maior,Portugal,102.20.35.193
+547,2003,41,Donja Brela,Croatia,70.32.173.154
+548,2004,32,Korostyshiv,Ukraine,244.194.134.158
+549,2006,37,Gonghe,China,236.5.246.65
+550,1995,30,Narukan,Indonesia,18.36.57.254
+551,1997,24,Sagay,Philippines,200.138.244.118
+552,1991,43,Sundumbili,South Africa,181.123.21.198
+553,2000,49,Balsas,Brazil,235.153.119.155
+554,2013,50,Raychikhinsk,Russia,146.16.247.12
+555,2004,29,Corzuela,Argentina,31.34.56.150
+556,2005,29,São José dos Pinhais,Brazil,177.216.3.228
+557,1994,24,As Sulayyil,Saudi Arabia,15.116.204.26
+558,1999,49,Tofol,Micronesia,135.192.176.50
+559,1990,35,Benito Juarez,Mexico,235.73.4.128
+560,2000,43,Chaumont,France,91.150.55.190
+561,1994,36,Nancha,China,68.42.235.69
+562,2009,32,Nanyuan,China,239.60.160.108
+563,2010,49,Boca de Parita,Panama,147.239.164.44
+564,1995,34,Odeleite,Portugal,124.196.35.124
+565,2015,37,Ożarowice,Poland,129.215.254.155
+566,2003,44,Krasnaya Gorka,Russia,124.184.4.7
+567,2002,32,Karpokhórion,Greece,162.191.126.18
+568,1998,48,Sölvesborg,Sweden,238.228.36.204
+569,1990,40,Kyaiklat,Myanmar,48.133.240.4
+570,2008,49,Ayabaca,Peru,206.234.29.96
+571,1991,27,Ruzayevka,Russia,38.122.40.55
+572,2008,45,Czarna Dąbrówka,Poland,159.178.26.96
+573,2012,28,Lalig,Philippines,26.82.17.18
+574,2009,35,Lingkou,China,224.149.115.24
+575,2015,50,Kertamukti,Indonesia,28.92.201.47
+576,2017,33,Joliet,United States,105.172.183.8
+577,1997,35,High Prairie,Canada,51.33.222.227
+578,2012,38,Tauca,Peru,155.28.42.146
+579,2011,39,Coyah,Guinea,234.86.203.49
+580,2003,41,Qaţanah,Palestinian Territory,202.27.228.232
+581,2015,47,San Jacinto,Philippines,214.226.251.154
+582,2017,48,La Sarre,Canada,96.179.242.181
+583,2012,38,Bayuwan,Indonesia,159.175.46.132
+584,2010,49,Huangtan,China,168.111.67.118
+585,2010,37,Dikirnis,Egypt,156.80.36.76
+586,1991,40,Shkotovo,Russia,100.94.103.119
+587,1992,50,Derviçian,Albania,65.13.221.163
+588,2013,46,Lyon,France,170.89.63.111
+589,2016,34,Krasnoznamensk,Russia,118.190.78.250
+590,2002,30,Chichigalpa,Nicaragua,76.23.205.151
+591,1998,41,Tangnanzhen,China,20.82.116.157
+592,2003,44,Mosquera,Colombia,150.228.18.22
+593,1994,37,Qiewa,China,104.37.44.7
+594,1998,25,Kanashevo,Russia,101.68.19.8
+595,1999,37,Longshan,China,182.222.179.175
+596,1999,44,Ribeirão das Neves,Brazil,34.177.123.87
+597,1996,40,Laslovo,Croatia,203.29.179.148
+598,2005,37,Donggong,China,159.32.70.158
+599,2015,34,Rajūzah,Yemen,188.108.132.140
+600,2009,47,Logon,Philippines,160.246.59.198
+601,2006,33,Avesta,Sweden,122.99.223.117
+602,1990,29,Muzhou,China,101.12.181.19
+603,1995,30,Kuching,Malaysia,144.209.131.149
+604,1997,44,Lyubech,Ukraine,148.22.185.251
+605,2014,43,Jardinópolis,Brazil,157.147.127.75
+606,2017,44,Chirongui,Mayotte,21.104.167.167
+607,2017,27,Meïganga,Cameroon,34.164.135.213
+608,2002,28,Fornos,Portugal,172.16.201.161
+609,2007,30,Boleszkowice,Poland,236.38.151.227
+610,1995,40,Brasília,Brazil,101.78.48.119
+611,2006,46,El Paso,United States,172.21.222.153
+612,2002,38,Enskede,Sweden,41.92.100.58
+613,2007,24,Dadian,China,54.166.174.151
+614,2014,27,Paris 10,France,136.87.235.75
+615,2015,34,Králův Dvůr,Czech Republic,10.185.9.180
+616,1993,26,Hufang,China,38.55.200.172
+617,1995,27,Eira da Pedra,Portugal,104.111.47.229
+618,2012,36,Pohang,South Korea,131.84.15.53
+619,2015,43,Yushan,China,152.25.101.231
+620,1990,44,Ararat,Armenia,24.138.145.114
+621,2005,42,Starokucherganovka,Russia,249.162.255.226
+622,1992,28,Xintaimen,China,36.81.78.216
+623,2002,25,Üydzen,Mongolia,40.158.165.127
+624,2004,26,Selishche,Russia,159.209.131.154
+625,2012,49,Waterbury,United States,254.173.82.37
+626,1997,48,Shibetsu,Japan,244.15.199.220
+627,2000,46,Dandai,China,230.248.250.156
+628,1993,33,Peroguarda,Portugal,57.50.46.142
+629,1992,27,Taza,Morocco,115.217.166.22
+630,2004,29,Chavusy,Belarus,97.235.185.82
+631,1992,46,Montilla,Philippines,92.40.169.237
+632,1994,35,Kota Bharu,Malaysia,250.217.163.238
+633,2007,30,Sarandi,Brazil,196.34.48.40
+634,1995,30,Velagići,Bosnia and Herzegovina,89.209.184.109
+635,1992,37,Cuntan,China,82.240.254.30
+636,2000,24,Yima,China,12.38.212.58
+637,2013,50,Dongping,China,22.58.196.175
+638,1995,35,Al Bawīţī,Egypt,47.229.19.30
+639,2017,45,Gabrovo,Bulgaria,212.166.200.130
+640,2008,49,La Valette-du-Var,France,9.184.135.233
+641,2010,33,Jiangwan,China,222.75.34.1
+642,2002,29,Andahuaylillas,Peru,159.205.139.61
+643,1990,50,Dubrovka,Russia,22.198.225.137
+644,2001,31,Mekarsari,Indonesia,79.255.135.9
+645,1998,25,Wat Bot,Thailand,140.159.175.94
+646,2005,34,Freixo de Numão,Portugal,54.218.153.236
+647,1992,48,Karamat,Indonesia,127.105.219.114
+648,2001,26,Itsukaichi,Japan,209.185.129.220
+649,2003,33,Bansalan,Philippines,222.128.255.224
+650,2007,35,Pimentel,Peru,167.33.19.198
+651,2003,46,Pantin,France,186.211.188.157
+652,2009,38,Évry,France,234.28.194.242
+653,1997,30,Salinas,Brazil,161.64.85.253
+654,1999,31,Niort,France,103.109.26.57
+655,2016,28,Madruga,Cuba,101.37.19.135
+656,2007,29,Nyamanari,Gambia,247.10.149.1
+657,1997,45,Strasbourg,France,4.107.223.75
+658,1999,47,Ashtarak,Armenia,211.81.212.12
+659,2007,48,Yokkaichi,Japan,210.3.186.13
+660,2016,24,Riachos,Portugal,73.153.121.130
+661,1992,42,Xindai,China,56.15.39.240
+662,1997,37,Gąbin,Poland,74.86.155.169
+663,2013,45,Tulsa,United States,36.76.249.150
+664,2015,47,Kusak,Russia,116.14.10.53
+665,2007,32,Nesterov,Russia,57.104.98.105
+666,2015,47,Retenggoma,Indonesia,125.182.208.228
+667,1994,50,Partikan,Indonesia,22.87.184.65
+668,2000,25,Coishco,Peru,77.99.87.147
+669,2005,26,Starigrad,Croatia,151.172.222.203
+670,1994,39,Esil,Kazakhstan,41.143.216.229
+671,2012,31,Ljukovo,Serbia,208.216.182.216
+672,1991,44,Māymay,Afghanistan,225.191.8.214
+673,2010,36,Kalate,Indonesia,75.26.49.95
+674,1999,28,Mehtar Lām,Afghanistan,166.180.152.39
+675,2000,27,Santa Rosa de Lima,El Salvador,81.4.12.157
+676,2006,46,Örebro,Sweden,203.119.222.92
+677,2014,24,Montelíbano,Colombia,210.219.2.49
+678,1995,29,Pa Tio,Thailand,109.212.228.138
+679,2004,31,Kubangkondanglapangan,Indonesia,99.201.216.154
+680,1998,38,Hpa-an,Myanmar,165.240.21.223
+681,1993,27,Forninho,Portugal,199.180.193.199
+682,1992,43,Leninsk,Russia,139.162.228.49
+683,1998,33,El Colorado,Argentina,214.168.73.19
+684,1998,34,Yefimovskiy,Russia,7.251.255.215
+685,2010,28,Kŭlob,Tajikistan,117.210.233.1
+686,2017,30,Huitán,Guatemala,246.205.13.197
+687,1991,25,Ōgaki,Japan,113.186.54.242
+688,2006,25,Shagamu,Nigeria,221.218.172.7
+689,2007,42,Wangshi,China,69.189.155.215
+690,2007,27,Mikhaylovsk,Russia,168.11.130.140
+691,2017,35,Shelabolikha,Russia,138.100.102.26
+692,2006,37,Kaminokawa,Japan,135.52.87.139
+693,1999,50,Toulon,France,23.76.20.249
+694,1998,36,Chaka,China,41.235.237.156
+695,2016,48,Gómfoi,Greece,213.131.8.192
+696,1994,35,Piracuruca,Brazil,216.147.124.60
+697,2017,33,Lemahputih,Indonesia,207.140.232.139
+698,2015,44,Otterburn Park,Canada,131.240.97.239
+699,2011,29,Baiyin,China,213.11.205.40
+700,2008,48,Azara,Argentina,47.81.59.127
+701,2004,24,Nueva Requena,Peru,51.54.206.223
+702,2004,33,Hedong,China,255.101.210.136
+703,2005,47,Hefu,China,2.145.195.13
+704,2004,28,Bonao,Dominican Republic,119.146.45.134
+705,1993,47,Selizharovo,Russia,250.95.229.93
+706,2004,26,Fonte Boa,Brazil,22.176.120.54
+707,1998,46,Chaihe,China,158.9.134.206
+708,2007,48,Ancona,Italy,152.73.201.141
+709,2015,49,Cilaja,Indonesia,193.219.55.212
+710,2013,42,Putrajaya,Malaysia,224.178.153.176
+711,1999,45,Mikołów,Poland,159.225.132.193
+712,2014,32,Chenchang,China,52.64.195.99
+713,1995,24,Bromma,Sweden,51.132.53.242
+714,1995,25,Pau,France,238.75.125.188
+715,2011,50,Mersam,Indonesia,40.26.62.113
+716,2014,31,Sviadnov,Czech Republic,254.144.131.247
+717,2015,31,Mbala,Zambia,66.124.200.34
+718,2015,34,Чегране,Macedonia,213.192.203.236
+719,1995,35,Gotputuk,Indonesia,149.137.84.31
+720,2009,39,Hitura,Nepal,234.202.200.210
+721,2016,27,Kapuan,Indonesia,54.156.217.59
+722,2013,35,Moch,Micronesia,107.169.121.151
+723,2013,48,Barda,Azerbaijan,253.124.234.62
+724,1998,44,Wangxian,China,22.196.255.153
+725,2008,42,Yunxi,China,90.251.192.80
+726,2016,50,Manoel Urbano,Brazil,13.140.226.189
+727,1995,41,Dordrecht,South Africa,26.61.97.142
+728,2001,37,Taipinghu,China,14.191.139.18
+729,2012,43,Cullalabo del Sur,Philippines,240.187.63.63
+730,1994,34,Rājshāhi,Bangladesh,114.60.190.108
+731,2001,28,Veliko Tŭrnovo,Bulgaria,207.114.209.255
+732,2012,28,Sarapul,Russia,123.141.182.177
+733,1995,47,Damulog,Philippines,109.146.63.229
+734,2004,50,Norrtälje,Sweden,27.164.125.96
+735,1990,50,Toyooka,Japan,108.10.100.173
+736,2013,36,San Bartolomé Milpas Altas,Guatemala,241.1.59.252
+737,2003,31,Luxor,Egypt,67.122.209.4
+738,2008,25,Port Maria,Jamaica,92.21.142.193
+739,2006,25,Aelande,Indonesia,198.236.97.131
+740,2016,33,Bryansk,Russia,234.5.22.210
+741,2001,35,Tanabe,Japan,46.197.1.153
+742,2016,42,Qiwen,China,125.105.232.71
+743,2013,43,Jukui,China,151.127.220.204
+744,2017,48,Dongbatu,China,165.197.189.10
+745,2015,39,Guanchi,China,46.246.154.229
+746,2002,32,Brandýs nad Labem-Stará Boleslav,Czech Republic,116.180.240.31
+747,2005,26,Sibreh,Indonesia,253.236.155.67
+748,2000,28,Colonia Yguazú,Paraguay,168.74.150.85
+749,1994,34,Cancela,Portugal,134.51.58.103
+750,2002,36,Angus,Canada,138.24.150.40
+751,2003,46,Irving,United States,57.185.24.160
+752,1995,46,Jianchang,China,75.73.242.107
+753,2003,44,Erie,United States,184.100.136.128
+754,1994,42,Joyabaj,Guatemala,194.41.136.86
+755,2014,28,Djounie,Lebanon,95.16.3.53
+756,2010,48,Sibinal,Guatemala,52.140.65.74
+757,1993,31,Söderköping,Sweden,165.38.142.9
+758,1999,42,Wulong,China,115.238.221.223
+759,1991,27,Kiten,Bulgaria,250.68.125.222
+760,2000,42,Furukawa,Japan,103.236.191.129
+761,2005,37,Mushu,China,234.217.53.171
+762,2011,29,Baihe,China,138.211.217.99
+763,2017,34,Titiakar,Indonesia,0.7.80.238
+764,1992,37,Guadalupe Victoria,Mexico,79.166.176.20
+765,2002,47,Outeiro,Portugal,51.68.30.245
+766,2010,30,Totness,Suriname,113.229.84.225
+767,2010,42,Augusto Corrêa,Brazil,62.46.187.202
+768,1991,44,Wanagiri,Indonesia,15.247.250.186
+769,2002,28,Sangoleng,Indonesia,224.93.181.54
+770,1997,35,Kalebun,Indonesia,187.81.197.199
+771,1992,47,Santa Maria da Feira,Portugal,219.112.44.115
+772,2012,37,Mulong,China,138.3.86.76
+773,2004,37,Jian’ou,China,172.15.236.130
+774,2007,46,Colotenango,Guatemala,7.131.241.2
+775,1990,48,Muurla,Finland,113.140.92.40
+776,2016,40,Molodohvardiys’k,Ukraine,193.136.227.211
+777,2006,44,Pyskowice,Poland,18.188.253.4
+778,1991,29,Hengshui,China,226.231.16.186
+779,2012,29,São Borja,Brazil,26.199.152.10
+780,2009,29,Paizhou,China,50.162.241.23
+781,2016,32,Juliaca,Peru,200.57.161.197
+782,1997,46,Longquan,China,23.87.89.152
+783,2011,24,Chepareria,Kenya,47.16.35.187
+784,2015,30,Layu,China,174.28.235.172
+785,1992,34,Lincheng,China,183.244.0.222
+786,2002,48,Karpokhórion,Greece,45.155.202.99
+787,2005,39,Bowen Island,Canada,6.61.240.146
+788,1996,44,Montélimar,France,179.30.136.68
+789,1995,41,Fatuulan,Indonesia,119.148.76.126
+790,2013,38,Spartanburg,United States,230.107.167.238
+791,1995,25,Petrodvorets,Russia,119.85.182.221
+792,1994,47,Härnösand,Sweden,197.44.190.36
+793,1995,45,High Point,United States,4.76.174.75
+794,2013,49,Itapagé,Brazil,20.65.35.70
+795,2006,27,Yushan,China,211.167.205.250
+796,2013,39,Falköping,Sweden,130.231.75.152
+797,1992,44,Hatogaya-honchō,Japan,140.110.8.241
+798,2001,42,Inda Silasē,Ethiopia,41.154.50.52
+799,2003,31,Choibalsan,Mongolia,118.202.235.165
+800,1999,35,Ngulahan,Indonesia,112.229.157.251
+801,1993,34,Caxarias,Portugal,164.125.19.54
+802,2003,35,Nikinci,Serbia,152.60.32.157
+803,2006,46,Krajanbaturno,Indonesia,116.210.165.99
+804,2009,42,Shuitou,China,197.134.192.224
+805,1996,26,Drummondville,Canada,13.228.239.37
+806,2009,30,Pirallahı,Azerbaijan,184.154.247.105
+807,2010,48,South River,Canada,165.183.48.225
+808,1991,48,Vladislav,Czech Republic,171.108.7.249
+809,1996,25,Karema,Tanzania,54.10.97.86
+810,2013,49,Chhāgalnāiya,Bangladesh,152.48.16.137
+811,1993,27,Huangcun,China,17.170.169.175
+812,1998,26,Habingkloang,Indonesia,211.185.195.149
+813,1990,43,Luga,Russia,189.193.14.31
+814,1990,48,Jatisari,Indonesia,88.32.59.236
+815,2000,26,Anshan,China,39.253.9.192
+816,2003,36,Hufang,China,136.149.4.123
+817,1998,28,Juan de Acosta,Colombia,60.67.47.153
+818,2002,37,Yirga ‘Alem,Ethiopia,153.205.159.144
+819,2010,30,Warungsugan,Indonesia,55.252.62.79
+820,1991,46,Burgas,Bulgaria,164.63.252.227
+821,2013,45,Maintang,China,131.213.34.26
+822,2006,38,Escazú,Costa Rica,101.80.85.241
+823,2000,27,San Isidro,Mexico,0.210.239.240
+824,2005,31,Liuji,China,234.144.11.184
+825,2006,45,Sucre,Peru,37.89.137.207
+826,2009,34,Uusikaupunki,Finland,192.0.245.237
+827,2009,28,Garissa,Kenya,35.25.236.125
+828,2016,44,Grzmiąca,Poland,94.115.67.194
+829,1997,38,Balkh,Afghanistan,142.181.32.127
+830,2003,34,Dasht-e Lati,Iran,160.123.141.188
+831,2001,48,Wa,Ghana,23.144.73.244
+832,2000,36,Temizhbekskaya,Russia,3.255.77.94
+833,2000,38,Phuket,Thailand,158.17.89.37
+834,1995,40,Almolonga,Guatemala,38.148.215.244
+835,2008,38,Xucheng,China,253.89.48.64
+836,2004,48,Lugang,China,101.138.200.5
+837,2000,32,Belūsovka,Kazakhstan,62.106.186.116
+838,1990,48,Zátor,Czech Republic,102.31.189.44
+839,2017,48,Talodi,Sudan,77.167.115.118
+840,2004,50,Real,Portugal,199.245.76.195
+841,2017,28,Kuniran,Indonesia,8.211.182.12
+842,1996,44,Mont-Joli,Canada,83.14.131.209
+843,1992,34,Youhao,China,225.227.85.143
+844,2008,33,Tyvriv,Ukraine,240.231.107.25
+845,2004,26,Rangxi,China,244.106.254.249
+846,1994,36,Busuanga,Philippines,79.202.168.130
+847,1993,30,Pandan,Indonesia,40.73.25.77
+848,2005,40,Serzedo,Portugal,103.98.100.230
+849,2014,48,San José del Guaviare,Colombia,76.71.39.150
+850,2015,33,Jandayan,Philippines,195.40.80.249
+851,2014,38,Piteå,Sweden,115.29.222.0
+852,2008,41,Ninghai,China,131.181.177.81
+853,2004,48,Jiuheyuan,China,217.57.244.140
+854,1999,31,Aserrí,Costa Rica,5.179.39.126
+855,1999,47,Checun,China,169.182.179.184
+856,2017,30,Dzhetygara,Kazakhstan,192.190.79.11
+857,2017,39,Chating,China,25.204.22.87
+858,2005,28,Araçoiaba da Serra,Brazil,148.72.22.7
+859,2017,43,Catriló,Argentina,3.159.63.178
+860,2012,50,Khovd,Mongolia,93.172.69.29
+861,2001,27,Fushë-Muhurr,Albania,134.101.52.165
+862,2001,39,Tanahmerah,Indonesia,200.161.167.180
+863,2013,29,Selaphum,Thailand,70.100.85.20
+864,1997,32,Novhorodka,Ukraine,54.158.152.152
+865,1996,42,Yizhang Chengguanzhen,China,208.65.197.25
+866,1996,37,Potolo,Bolivia,198.60.67.17
+867,2013,30,Belén,Nicaragua,26.147.225.118
+868,1998,40,Riangblolong,Indonesia,7.83.244.182
+869,1995,44,Hoçisht,Albania,18.170.131.95
+870,1991,35,Sugihmukti,Indonesia,232.81.39.185
+871,2007,26,Jiutai,China,13.210.226.183
+872,2013,25,Heiheba,China,120.123.252.192
+873,1995,31,Vnanje Gorice,Slovenia,62.0.123.143
+874,2014,26,Tingping,China,241.213.53.12
+875,2011,50,Kikinda,Serbia,149.39.252.232
+876,2002,31,Kabin Buri,Thailand,174.56.31.122
+877,2012,25,Santo Niño,Philippines,232.25.172.185
+878,1993,27,Obama,Japan,172.189.113.204
+879,1994,50,Lancaster,United States,114.102.55.204
+880,1994,42,Dobryanka,Russia,192.127.219.213
+881,2000,46,Buyun,China,150.177.194.252
+882,2015,44,Qionghu,China,6.146.146.32
+883,1998,42,Imbituva,Brazil,247.184.243.130
+884,2010,46,Bremerhaven,Germany,136.55.120.147
+885,2008,27,Uddevalla,Sweden,92.204.39.75
+886,1994,33,São Borja,Brazil,88.240.241.246
+887,2008,46,Mayumba,Gabon,227.223.37.106
+888,2016,29,Malasugui,Philippines,174.223.83.69
+889,1998,30,Karlstad,Sweden,55.33.192.226
+890,2017,50,Pruchnik,Poland,123.86.167.87
+891,1993,33,Lwówek Śląski,Poland,245.214.187.224
+892,1998,46,Płońsk,Poland,126.218.185.78
+893,2001,29,Ribeiro,Portugal,91.160.206.222
+894,2005,38,Ayrihuanca,Peru,68.183.140.179
+895,2001,41,Shangzhang,China,200.141.161.45
+896,2011,36,Anáfi,Greece,120.109.248.104
+897,2006,31,Estique,Peru,78.237.144.61
+898,1994,26,Panguruan,Indonesia,231.60.79.88
+899,1990,43,Poddębice,Poland,190.73.124.66
+900,2017,35,Kuala Lumpur,Malaysia,100.43.45.230
+901,2013,43,Jantake,Indonesia,62.154.121.46
+902,1993,32,Skópelos,Greece,226.241.28.144
+903,2014,45,Mporokoso,Zambia,80.157.239.239
+904,2013,49,Kėdainiai,Lithuania,55.85.191.248
+905,1999,29,Yanjiao,China,154.246.203.196
+906,2005,45,Hội An,Vietnam,39.135.130.155
+907,1996,40,Yixin,China,246.17.9.100
+908,1992,39,Cafarnaum,Brazil,188.189.25.76
+909,2013,44,Balazar,Portugal,152.93.255.133
+910,2014,34,Aras-asan,Philippines,103.169.43.241
+911,1992,41,Batubantar,Indonesia,124.204.124.198
+912,2007,31,Thaba Nchu,South Africa,236.31.95.179
+913,2005,48,Beolgyo,South Korea,52.0.177.208
+914,2013,43,Novo Cruzeiro,Brazil,178.226.179.172
+915,1994,45,Xitou,China,46.57.231.175
+916,2000,30,Campos do Jordão,Brazil,114.34.122.25
+917,1995,33,Thanh Nê,Vietnam,166.217.27.13
+918,2005,26,Springfield,United States,135.140.250.46
+919,2016,45,Villeurbanne,France,175.202.7.115
+920,2002,45,Svecha,Russia,134.21.90.206
+921,1991,41,Tubajon,Philippines,226.236.7.237
+922,2000,24,Garmeh,Iran,182.116.247.70
+923,2015,26,Santa Luċija,Malta,221.53.51.101
+924,2016,42,Wuhu,China,39.76.146.231
+925,2003,29,Parawan,Indonesia,15.127.156.121
+926,2007,39,Semīrom,Iran,82.57.183.136
+927,1998,33,Murcki,Poland,143.239.56.18
+928,1993,32,Rossosh’,Russia,42.95.102.146
+929,2004,46,Hashimoto,Japan,98.80.52.239
+930,2002,39,Billa,Indonesia,47.82.125.155
+931,2016,24,Jönköping,Sweden,105.104.252.51
+932,2017,28,Bongsri,Indonesia,16.66.163.121
+933,2006,46,Haoshui,China,138.240.173.213
+934,2012,35,Sam Ngam,Thailand,145.74.148.237
+935,1992,32,Banjar Jagasatru,Indonesia,29.79.105.99
+936,2015,26,Boa Esperança,Brazil,239.80.64.249
+937,2010,41,Hobart,Australia,150.80.251.46
+938,2008,38,Corinto,Brazil,183.52.164.1
+939,2007,47,Suka Makmue,Indonesia,48.70.135.102
+940,2015,24,Yuyang,China,54.95.39.242
+941,2008,45,Butare,Rwanda,183.40.8.242
+942,2013,30,Devesa,Portugal,6.95.47.46
+943,2003,33,Neebing,Canada,192.145.223.102
+944,2009,40,Guanaja,Honduras,110.80.118.202
+945,2015,41,Lizhai,China,27.81.5.186
+946,1993,34,Kombësi,Albania,8.209.73.36
+947,2009,32,Antsirabe,Madagascar,137.79.136.174
+948,2000,48,Nishinomiya-hama,Japan,37.146.117.75
+949,1992,41,Khlong Yai,Thailand,191.25.27.26
+950,2004,31,San Sebastian,Mexico,130.245.232.101
+951,2017,32,Moroto,Uganda,238.83.90.198
+952,1994,39,Colosó,Colombia,157.237.43.104
+953,2003,30,Wuxi,China,175.196.67.50
+954,2016,37,Bairro dos Marinheiros,Portugal,202.200.251.125
+955,2012,29,Cochadas,Portugal,181.93.138.74
+956,2006,25,New Cebu,Philippines,133.202.125.214
+957,1992,36,Tadine,New Caledonia,183.250.54.109
+958,1990,29,Cerro Colorado,Uruguay,99.222.196.177
+959,1990,38,Xinzheng,China,113.217.69.219
+960,2014,28,Kuching,Malaysia,139.176.120.116
+961,2015,25,Baikui,China,95.25.36.2
+962,1992,32,Rāvar,Iran,254.83.234.193
+963,1994,44,Iradan,Kyrgyzstan,155.80.38.121
+964,1995,44,Maracaçumé,Brazil,122.148.50.229
+965,2011,33,Panalingaan,Philippines,236.155.122.152
+966,2015,34,Ganchazi,China,110.164.215.162
+967,2010,34,Daoxian,China,34.113.190.41
+968,2007,44,Marataizes,Brazil,114.252.223.22
+969,1999,42,Keleleng,Indonesia,244.33.174.177
+970,2012,38,Gainesville,United States,62.6.67.221
+971,2004,28,Bang Kaeo,Thailand,177.176.43.207
+972,2002,26,As Salţ,Jordan,178.58.7.57
+973,1999,34,Lanipao,Philippines,91.166.45.241
+974,1993,27,Divinópolis,Brazil,1.244.233.34
+975,1997,30,Kaiama,Nigeria,255.144.21.234
+976,2006,29,Mahdia,Tunisia,242.30.187.74
+977,1997,25,Svobody,Russia,239.253.186.129
+978,1998,28,San Martin,Mexico,42.21.181.90
+979,2003,40,Benhao,China,220.79.141.216
+980,1997,25,Ban Dan,Thailand,65.149.39.134
+981,2009,44,Belsh,Albania,152.120.80.104
+982,1991,38,Töreboda,Sweden,220.17.45.148
+983,1998,39,Žebrák,Czech Republic,77.30.94.23
+984,1999,42,Salvador,Portugal,168.145.98.195
+985,2000,42,Quintong,Philippines,145.35.178.199
+986,1990,31,Ciengang,Indonesia,228.182.95.14
+987,2016,36,Galutu,China,66.203.199.171
+988,2009,35,Lingqian,China,61.108.98.62
+989,2009,30,El Bálsamo,Honduras,65.166.3.34
+990,2006,49,Jiaogong,China,14.234.94.134
+991,1990,48,Bissen,Luxembourg,131.114.36.19
+992,1996,30,Le Blanc-Mesnil,France,116.95.14.13
+993,2001,38,Fak Tha,Thailand,143.40.89.138
+994,2012,49,Mangaldan,Philippines,30.171.100.209
+995,2008,27,Ouyang,China,209.226.19.222
+996,2008,43,Guinabsan,Philippines,38.94.158.55
+997,2007,25,Lumphăt,Cambodia,247.217.69.148
+998,2011,28,Monastyryshche,Ukraine,243.204.213.215
+999,2006,50,Ambo Village,Kiribati,190.112.34.140
+1000,2001,35,Haapajärvi,Finland,141.3.172.244
